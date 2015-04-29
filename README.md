@@ -6,7 +6,7 @@ This program is designed to act as a task list using a linked list as the runnin
 
 ## How to Run
 
-The user will download the zip file into their preferred folder. After unzipping the file, the user should exhibit five files in their folder: 
+The user can clone repo using "git clone https://github.com/lale5102/Ledbetter_CSCI2270_FinalProject.git" and will receive 5 files. 
   
   1) README.md 
   
@@ -14,7 +14,7 @@ The user will download the zip file into their preferred folder. After unzipping
   
   3) ToDoList.h 
   
-  4) helloWorld.cpp (this file can be ignored) 
+  4) helloWorld.cpp (This file can be ignored)
   
   5) main.cpp 
   
