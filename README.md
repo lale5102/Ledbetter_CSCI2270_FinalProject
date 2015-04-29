@@ -6,15 +6,15 @@ This program is designed to act as a task list using a linked list as the runnin
 
 ## How to Run
 
-The user can clone repo using "git clone https://github.com/lale5102/Ledbetter_CSCI2270_FinalProject.git" and will receive 5 files. 
-  
+User can clone repo using "git clone https://github.com/suveck/Giacomini_CSCI2270_FinalProject.git" and will receive 5 files:
+
   1) README.md 
   
   2) ToDoList.cpp 
   
   3) ToDoList.h 
   
-  4) helloWorld.cpp (This file can be ignored)
+  4) helloWorld.cpp (this file can be ignored)
   
   5) main.cpp 
   
@@ -40,4 +40,6 @@ N/A
 
 ## Open Issues/Bugs
 
-This program infinitly loops if the user assigns a non-integer as the time and needs to be force quit to exit. There is also a memory leak in the delete all instances code. 
+1. As of yet there is no input tester to check for integer validity on expected integer inputs.
+2. minor memory leak in the deleteAllInstances meathod.
+3. current implementation of string input only allows for 1 space character.
