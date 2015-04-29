@@ -6,7 +6,7 @@ This program is designed to act as a task list using a linked list as the runnin
 
 ## How to Run
 
-User can clone repo using "git clone https://github.com/suveck/Giacomini_CSCI2270_FinalProject.git" and will receive 5 files:
+User can clone repo using "git clone github.com/lale5102/Ledbetter_CSCI2270_FinalProject.git" and will receive 5 files:
 
   1) README.md 
   
