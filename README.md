@@ -42,4 +42,4 @@ N/A
 
 1. As of yet there is no input tester to check for integer validity on expected integer inputs.
 2. minor memory leak in the deleteAllInstances meathod.
-3. current implementation of string input only allows for 1 space character.
+3. current implementation of string input only allows for 1 space character.tdtdtdt
